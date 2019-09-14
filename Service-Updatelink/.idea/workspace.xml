@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebde96c3-dfab-43b5-84be-4db41ac2ce88" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Service-Model/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Service-Model/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Service-MySQL/run-publish.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../Service-MySQL/run-publish.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Service-Spacdt/conf/app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Service-Spacdt/conf/app.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/docker-deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/docker-deploy.sh" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Service-Spacdt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/hchlinktb.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3289">
+              <caret line="153" selection-start-line="153" selection-end-line="153" />
+              <folding>
+                <element signature="e#21#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/updatelink.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="e#16#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Service-Spacdt/models/spacbasic/transRoute.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routers/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="e#17#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/rabbitmq/recv.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2737">
+              <caret line="129" column="27" selection-start-line="129" selection-start-column="27" selection-end-line="129" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/rabbitmq/send.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2990">
+              <caret line="141" column="50" selection-start-line="141" selection-start-column="50" selection-end-line="141" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CNativeBox</find>
+      <find>Init</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="E:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../.." />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/spacbasic/NativeSpatialIndex.c" />
+        <option value="$PROJECT_DIR$/models/decTrans/dechex.go" />
+        <option value="$PROJECT_DIR$/models/spacbasic/native.go" />
+        <option value="$PROJECT_DIR$/models/spacbasic/transRoute.h" />
+        <option value="$PROJECT_DIR$/controllers/default.go" />
+        <option value="$PROJECT_DIR$/models/spacbasic/transRoute.c" />
+        <option value="$PROJECT_DIR$/controllers/hchgcwc.go" />
+        <option value="$PROJECT_DIR$/controllers/spacdtService.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/models/sqlconn.go" />
+        <option value="$PROJECT_DIR$/../Service-Spacdt/models/spacbasic/transRoute.go" />
+        <option value="$PROJECT_DIR$/models/spacbasic/transRoute.go" />
+        <option value="$PROJECT_DIR$/models/cgobasic/transRoute.go" />
+        <option value="$PROJECT_DIR$/controllers/hchlinktb.go" />
+        <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/models/rabbitmq/recv.go" />
+        <option value="$PROJECT_DIR$/logs/logfile.go" />
+        <option value="$PROJECT_DIR$/conf/app.conf" />
+        <option value="$PROJECT_DIR$/models/rabbitmq/send.go" />
+        <option value="$PROJECT_DIR$/models/updatelink.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="34" />
+    <option name="width" value="1843" />
+    <option name="height" value="1073" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Service-Updatelink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Service-Updatelink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Service-Updatelink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Service-Updatelink" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Service-Updatelink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Service-Updatelink" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Service-Updatelink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Service-Updatelink" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Service-Spacdt" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build GridService/Service-Spacdt" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Service-Spacdt" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <envs>
+        <env name="GOARCH " value="386" />
+        <env name="CGO_ENABLED" value="1" />
+        <env name="GOOS" value="windows" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="GridService/Service-Spacdt" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build GridService/Service-Spacdt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944383" visible="true" weight="0.18176973" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005562" side_tool="true" weight="0.118336886" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.033370413" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.22295082" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.22358176" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'develop' of http://10.100.100.3:65016/MapWork/grid-map.src into develop&#10;&#10;# Conflicts:&#10;#&#9;src/GridService/Service-Spacdt/controllers/spacdtService.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'develop' of http://10.100.100.3:65016/MapWork/grid-map.src into develop&#10;&#10;# Conflicts:&#10;#&#9;src/GridService/Service-Spacdt/controllers/spacdtService.go" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/Go/my_gopath/src/github.com/bradfitz/gomemcache/memcache/memcache.go" />
+    <entry file="file://$PROJECT_DIR$/../../xh.common/xh_util/memcached.go" />
+    <entry file="file://E:/Go/src/fmt/print.go" />
+    <entry file="file://E:/Go/src/log/log.go" />
+    <entry file="file://E:/Go/src/strconv/atof.go" />
+    <entry file="file://E:/Go/src/time/time.go" />
+    <entry file="file://E:/Go/src/time/sleep.go" />
+    <entry file="file://E:/Go/my_gopath/src/xh.common/xh_util/memcached.go" />
+    <entry file="file://$PROJECT_DIR$/myDllLog.txt" />
+    <entry file="file://$PROJECT_DIR$/models/spacbasic/NativeSpatialIndex.h" />
+    <entry file="file://$PROJECT_DIR$/models/spacbasic/NativeSpatialIndex.c" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_rabbitmq-golangclient-master.zip/rabbitmq-golangclient-master/main.go" />
+    <entry file="file://E:/Go/src/os/file_windows.go" />
+    <entry file="file://E:/Go/src/os/types.go" />
+    <entry file="file://E:/Go/src/os/file.go" />
+    <entry file="file://E:/Go/src/io/multi.go" />
+    <entry file="file://E:/Go/my_gopath/src/github.com/astaxie/beego/config.go" />
+    <entry file="file://E:/Go/my_gopath/src/github.com/ziutek/mymysql/mysql/types.go" />
+    <entry file="file://E:/Go/my_gopath/src/xh.common/xh_util/errors.go" />
+    <entry file="file://E:/Go/my_gopath/src/github.com/astaxie/beego/orm/types.go" />
+    <entry file="file://$PROJECT_DIR$/models/decTrans/dechex.go" />
+    <entry file="file://E:/Go/my_gopath/src/xh.common/xh_util/utility.go" />
+    <entry file="file://E:/Go/src/builtin/builtin.go" />
+    <entry file="file://E:/Go/src/encoding/binary/binary.go" />
+    <entry file="file://$PROJECT_DIR$/controllers/gridCast.go" />
+    <entry file="file://$PROJECT_DIR$/controllers/hchgcwc.go" />
+    <entry file="file://$PROJECT_DIR$/models/spacbasic/native.go" />
+    <entry file="file://$PROJECT_DIR$/controllers/spacdtService.go" />
+    <entry file="file://$PROJECT_DIR$/controllers/terrain.go" />
+    <entry file="file://$PROJECT_DIR$/models/spacbasic/transRoute.c" />
+    <entry file="file://$PROJECT_DIR$/models/spacbasic/transRoute.h" />
+    <entry file="file://$PROJECT_DIR$/models/spacbasic/transRoute.go" />
+    <entry file="file://$PROJECT_DIR$/models/cgobasic/transRoute.c" />
+    <entry file="file://$PROJECT_DIR$/models/cgobasic/transRoute.go" />
+    <entry file="file://$PROJECT_DIR$/../Service-Spacdt/models/spacbasic/native.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Go/my_gopath/src/xh.common/xh_util/geometry3d.go" />
+    <entry file="file://E:/Go/my_gopath/src/github.com/streadway/amqp/channel.go" />
+    <entry file="file://D:/Go/my_gopath/src/xh.common/xh_util/utility.go" />
+    <entry file="file://$PROJECT_DIR$/models/sqlconn.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Go/my_gopath/src/github.com/streadway/amqp/types.go" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Go/src/time/format.go" />
+    <entry file="file://$PROJECT_DIR$/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logfile.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/hchlinktb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3289">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+          <folding>
+            <element signature="e#21#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Service-Spacdt/models/spacbasic/transRoute.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#17#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/rabbitmq/recv.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="129" column="27" selection-start-line="129" selection-start-column="27" selection-end-line="129" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/rabbitmq/send.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2990">
+          <caret line="141" column="50" selection-start-line="141" selection-start-column="50" selection-end-line="141" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/updatelink.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="e#16#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
